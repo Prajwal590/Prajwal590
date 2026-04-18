@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Pearl!  
-**Java Developer | Backend Developer (Java, SQL) | AI Enthusiast | B.E CSE Graduate (2025)**   
-
----    
+# 👋 Hi, I'm Prajwal!  
+**AI Developer | Full Stack Developer | Java & Python Developer | B.E CSE Graduate (2025)**---    
 
 ## 🚀 About Me  
-🔹 Passionate **Java Developer** skilled in **Java, SQL, JavaScript, HTML, CSS, Python**.  
+🔹 Passionate **Full Stack Developer** skilled in **Java, SQL, JavaScript, HTML, CSS, Python, and React.js**.  
 
-🔹 Built a **Real-Time Nail Disease Detection System** using **YOLO & Streamlit**.  
+🔹 Built a **Real-Time Nail Disease Detection System** using **YOLO & Streamlit**, applying AI in healthcare.  
 
-🔹 Strong foundation in **Data Structures & Algorithms (Java)** and currently improving problem-solving skills.  
+🔹 Strong foundation in **Data Structures & Algorithms (Java)** with a focus on problem-solving.  
 
-🔹 Interested in **AI in Healthcare** and building real-world impactful applications.  
+🔹 Interested in **Backend Development, Full Stack Development, and Artificial Intelligence**, building scalable real-world applications.  
 
-💡 Always eager to learn new technologies and grow as a developer.
+🔹 Currently working with **Spring Boot, REST APIs, and Generative AI (LLM, RAG)**.  
+
+💡 Always eager to learn, build, and improve consistently.
 
 ---
 
@@ -24,17 +24,43 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![React](https://img.shields.io/badge/React-Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![GenAI](https://img.shields.io/badge/GenAI-AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)  
+![LLM](https://img.shields.io/badge/LLM-NLP-8A2BE2?style=for-the-badge)  
+![RAG](https://img.shields.io/badge/RAG-AI%20System-0A66C2?style=for-the-badge)  
+
+---
 
 ### **⚙️ Backend:**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)  
 
+---
+
 ### **🗄️ Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+---
 
 ### **🤖 AI / ML:**  
-📊 **YOLO (Object Detection), Streamlit, Computer Vision Basics**  
+📊 **YOLO (Object Detection), CNN, RNN, LLM, RAG, Vector Databases**  
+🧠 **Machine Learning & Deep Learning Concepts**  
+🖥️ **Streamlit, Computer Vision Basics**  
+---
+
+## 💼 Experience  
+
+### 🚀 Full Stack AI Developer | Brightpath Technology (Nov 2025 – Apr 2026)  
+- Built scalable full-stack applications using **Java, Spring Boot, React.js, and SQL**  
+- Integrated **AI/ML models (YOLO)** for real-time prediction features  
+- Developed and optimized **REST APIs** using **Spring Boot and FastAPI**  
+- Implemented **LLM-based features with RAG (Retrieval-Augmented Generation)** for intelligent data retrieval  
+- Designed relational databases and improved **query performance**  
+- Delivered responsive UI with **React.js**, enhancing user experience  
+- Followed clean code practices and contributed to production-level features  
+- Contributed to end-to-end development from backend to AI integration  
 
 ---
 
@@ -49,28 +75,30 @@
 
 ---
 
-### 📌 **Task Management System**  
-- **Tech Stack:** Java, JDBC, MySQL  
+### 📌 **Movie Recommendation System**  
+- **Tech Stack:** Python, Machine Learning, Pandas, NumPy  
 - **Features:**  
-  - CRUD Operations  
-  - Backend logic implementation  
-  - Database integration  
+  - Built a recommendation engine using content-based filtering  
+  - Suggested movies based on similarity scores  
+  - Performed data preprocessing and feature engineering  
+  - Improved user experience with relevant recommendations  
 
 ---
 
-### 📌 **Healthcare Dashboard (React UI)**  
-- **Tech Stack:** React.js, JavaScript, HTML, CSS  
+### 📌 **Student Management System**  
+- **Tech Stack:** Java, JDBC, MySQL  
 - **Features:**  
-  - Clean UI dashboard  
-  - Health analytics display  
-  - Responsive design  
+  - Developed a system to manage student data efficiently  
+  - Implemented CRUD operations with database integration  
+  - Applied object-oriented programming concepts  
+  - Ensured structured and maintainable backend logic  
 
 ---
 
 ## 📬 Connect with Me  
-💼 **LinkedIn:** (Add your link)  
-📧 **Email:** (Add your email)  
-🐙 **GitHub:** (Add your GitHub link)  
+💼 **LinkedIn:** https://www.linkedin.com/in/prajwal-m-615984280/  
+📧 **Email:** prajwalmarapur1@gmail.com  
+🐙 **GitHub:** https://github.com/Prajwal590  
 
 ---
 
