@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prajwal!  
-**AI Developer | Full Stack Developer | Java & Python Developer | B.E CSE Graduate (2025)**---    
+**AI Developer | Full Stack Developer | Java & Python Developer | B.E CSE Graduate (2025)**--
 
 ## 🚀 About Me  
 🔹 Passionate **Full Stack Developer** skilled in **Java, SQL, JavaScript, HTML, CSS, Python, and React.js**.  
